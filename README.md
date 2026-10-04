@@ -1,1 +1,1 @@
-Repository for swift learning tasks from exercise
+Repository for swift learning tasks from Exercism
